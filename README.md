@@ -11,3 +11,5 @@ This is a  competition of Kaggke, whwere we will predict sales for the thousands
 
 Los datos del proyecto vienen de La competición Kaggle  [Sales Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
+## Vídeo 
+[Descripción del proyecto](https://www.youtube.com/watch?v=GInkMLm2ZwI&feature=youtu.be)
