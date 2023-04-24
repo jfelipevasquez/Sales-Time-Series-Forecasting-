@@ -5,7 +5,7 @@ This is a  competition of Kaggke, whwere we will predict sales for the thousands
 ## Miembros del grupo:
 - Juan Felipe Vásquez Uribe (1152471528).Estudiante de Ingeniería Mecánica
 - Jhon David Ballesteros Vargas (1035227695). Estudiante de Ingeniería de Sistemas
-- Natalia Polo Peña. Estudiante de Ingeniería Electónica
+- Natalia Polo Peña (1193435542). Estudiante de Ingeniería Electónica
 
 ## Datos
 
