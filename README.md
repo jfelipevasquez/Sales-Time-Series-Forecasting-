@@ -1,4 +1,4 @@
-# Proyecto: Sales Time Series Forecasting
+# Proyecto: Store Sales - Time Series Forecasting
 
 Este es un proyecto de series de tiempo donde se pretende predecir las ventas de varias tiendas de la corporración Favorita para un periodo de tiempo determinado. 
 
